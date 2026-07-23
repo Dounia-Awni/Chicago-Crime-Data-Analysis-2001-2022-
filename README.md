@@ -7,7 +7,7 @@ providing insights into crime trends, arrest rates, rush hour patterns, and seas
 [View the Interactive Dashboard on Tableau Public](https://public.tableau.com/views/chicagodashboard/MainDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### 📸 Main Dashboard Screenshot
-![Chicago Crime Overview](images/dashboard_screenshot.png)
+![Chicago Crime Overview](dashboard_screenshot.png)
 
 ### 📋 Dashboard Features
 
