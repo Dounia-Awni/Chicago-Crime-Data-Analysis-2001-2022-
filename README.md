@@ -7,7 +7,7 @@ providing insights into crime trends, arrest rates, rush hour patterns, and seas
 [View the Interactive Dashboard on Tableau Public](YOUR_TABLEAU_PUBLIC_LINK_HERE)
 
 ### 📸 Main Dashboard Screenshot
-![Chicago Crime Overview](https://github.com/Dounia-Awni/Chicago-Crime-Data-Analysis-2001-2022-/blob/main/images/dashboard_screenshot.png?raw=true)
+[Chicago Crime Overview](https://github.com/Dounia-Awni/Chicago-Crime-Data-Analysis-2001-2022-/blob/main/images/dashboard_screenshot.png?raw=true)
 
 ### 📋 Dashboard Features
 
